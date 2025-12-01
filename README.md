@@ -122,7 +122,7 @@ Contribuições são muito bem-vindas! Este é um projeto acadêmico, mas sugest
 
 ## Licença
 
-Este projeto foi desenvolvido para fins acadêmicos. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto foi desenvolvido para fins acadêmicos. Consulte o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ## Autor
 
